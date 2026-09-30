@@ -1,0 +1,6 @@
+{
+  "name": "CamScan IP",
+  "description": "Aplicativo para varredura e descoberta automatica de cameras IP na rede Wi-Fi local via ONVIF e RTSP com persistencia em banco Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

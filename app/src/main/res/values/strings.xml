@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CamScan IP</string>
+    <string name="scan_network">Escanear Rede Wi-Fi</string>
+    <string name="scan_onvif">Varredura ONVIF (Porta 3702)</string>
+    <string name="scan_tcp">Varredura RTSP / Sub-rede (Porta 554)</string>
+    <string name="no_cameras_registered">Nenhuma câmera cadastrada nesta rede</string>
+    <string name="registered_cameras">Câmeras Cadastradas</string>
+    <string name="scanning">Escaneando rede…</string>
+    <string name="add_camera">Adicionar Câmera</string>
+    <string name="edit_camera">Editar Câmera</string>
+    <string name="delete_camera">Excluir Câmera</string>
+    <string name="save_camera">Salvar Câmera</string>
+    <string name="test_rtsp">Testar Conexão RTSP</string>
+    <string name="camera_name">Nome da Câmera</string>
+    <string name="ip_address">Endereço IP</string>
+    <string name="rtsp_port">Porta RTSP</string>
+    <string name="stream_path">Caminho do Stream (RTSP)</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+</resources>
